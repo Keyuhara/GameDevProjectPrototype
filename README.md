@@ -1,2 +1,2 @@
 # GameDevProjectPrototype
-CS 4423 Game Development Project Prototype
+CS 4423 Game Development Prototype Project
